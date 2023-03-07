@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shubhammahajan2012.github.io/csb-u99fb4/static/css/main.77811020.chunk.css",
+    "main.js": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/main.fb9efe36.chunk.js",
+    "main.js.map": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/main.fb9efe36.chunk.js.map",
+    "runtime-main.js": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/runtime-main.1801132a.js",
+    "runtime-main.js.map": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/runtime-main.1801132a.js.map",
+    "static/js/2.41fdbc6a.chunk.js": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/2.41fdbc6a.chunk.js",
+    "static/js/2.41fdbc6a.chunk.js.map": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/2.41fdbc6a.chunk.js.map",
+    "index.html": "https://shubhammahajan2012.github.io/csb-u99fb4/index.html",
+    "static/css/main.77811020.chunk.css.map": "https://shubhammahajan2012.github.io/csb-u99fb4/static/css/main.77811020.chunk.css.map",
+    "static/js/2.41fdbc6a.chunk.js.LICENSE.txt": "https://shubhammahajan2012.github.io/csb-u99fb4/static/js/2.41fdbc6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1801132a.js",
+    "static/js/2.41fdbc6a.chunk.js",
+    "static/css/main.77811020.chunk.css",
+    "static/js/main.fb9efe36.chunk.js"
+  ]
+}
